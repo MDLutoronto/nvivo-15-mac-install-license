@@ -99,5 +99,3 @@ That's it! NVivo should now be running on your Mac.
 
     <img src='{{ '/assets/images/unnamed.png' | relative_url }}' alt='Replace License setting in NVivo15' title='' width='866' height='566' />
 3. You can replace your license key by copying and pasting the new license key in, and clicking **OK.**
-
-Technique: [Installation](https://mdl.library.utoronto.ca/technique/installation) | Tools: [NVivo](https://mdl.library.utoronto.ca/tools/nvivo)
