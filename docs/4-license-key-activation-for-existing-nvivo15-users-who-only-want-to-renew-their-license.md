@@ -12,3 +12,5 @@ nav_order: 4
 
     <img src='{{ '/assets/images/unnamed.png' | relative_url }}' alt='Replace License setting in NVivo15' title='' width='866' height='566' />
 3. You can replace your license key by copying and pasting the new license key in, and clicking **OK.**
+
+**Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)

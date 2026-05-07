@@ -26,8 +26,10 @@ nav_order: 3
 
     <img src='{{ '/assets/images/9_0.png' | relative_url }}' alt='License activated confirmation screen' title='' width='512' height='390' />
 
-5.  Finish setting up your User Profile by filling in your name and initials, and click **OK.** Filling in your initials is especially important in team projects, as this information is used to identify your work.
+5. Finish setting up your User Profile by filling in your name and initials, and click **OK.** Filling in your initials is especially important in team projects, as this information is used to identify your work.
 
     <img src='{{ '/assets/images/10.png' | relative_url }}' alt='User profile screen with Name and Initials highlighted' title='' width='820' height='432' />
 
 That's it! NVivo should now be running on your Mac.
+
+**Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)

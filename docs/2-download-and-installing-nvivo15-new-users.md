@@ -32,3 +32,5 @@ nav_order: 2
     <img src='{{ '/assets/images/6.png' | relative_url }}' alt='NVivo Installer with License Agreement and I accept terms of agreement highlighted and Agree highlighted ' title='' width='1180' height='964' />
 
 NVivo is now installed! Continue with the next steps to activate your license.
+
+**Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
