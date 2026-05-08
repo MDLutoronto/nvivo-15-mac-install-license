@@ -2,6 +2,13 @@
 title: Requesting a License
 parent: Installing and Licensing NVivo 15 for Mac
 layout: default
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2024-09-06
 nav_order: 1
 ---
 
